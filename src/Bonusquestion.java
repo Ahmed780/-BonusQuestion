@@ -8,7 +8,7 @@
  *
  * @author Nanu
  */
-public class Bonus {
+public class Bonusquestion {
 
     /**
      * @param args the command line arguments
