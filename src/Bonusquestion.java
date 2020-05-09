@@ -15,7 +15,7 @@ public class Bonusquestion {
      */
     public static void main(String[] args) {
         
-         Question name = new Question("Uzair");
+         Question name = new Question("Uzair lakhani");
         
         System.out.println("My name is " + name.getQuestions());
         
